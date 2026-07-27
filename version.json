@@ -1,0 +1,16 @@
+{
+  "minVersion": "0.1.0",
+  "latestVersion": "0.1.0",
+  "downloadUrl": "https://www.dataphraser.com/#download",
+  "message": "检测到新版本，请下载安装后继续使用",
+  "assets": {
+    "mac-arm64": {
+      "url": "https://github.com/Quinn-Talor/dataphraser-releases/releases/download/v0.1.0/DataPhraser-0.1.0-arm64.dmg",
+      "sizeMB": 359
+    },
+    "win-x64": {
+      "url": "https://github.com/Quinn-Talor/dataphraser-releases/releases/download/v0.1.0/DataPhraser.Setup.0.1.0.exe",
+      "sizeMB": 205
+    }
+  }
+}

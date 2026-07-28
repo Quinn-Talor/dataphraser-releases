@@ -7,8 +7,8 @@
       "platform": "mac-arm64",
       "filename": "DataPhraser-0.1.0-arm64.dmg",
       "downloadUrl": "https://github.com/Quinn-Talor/dataphraser-releases/releases/download/v0.1.0/DataPhraser-0.1.0-arm64.dmg",
-      "size": 377847576,
-      "sha256": "3ba3a032d108db8a1622e33ea93e724963e524a798cd659cb0f633fb54571a65"
+      "size": 286952399,
+      "sha256": "a7bd8de13c7312500053aa57ab81cf120c4ff70ae3c31ad8ec3a759088186994"
     },
     {
       "platform": "win-x64",

@@ -9,13 +9,7 @@
       "downloadUrl": "https://github.com/Quinn-Talor/dataphraser-releases/releases/download/v0.1.0/DataPhraser-0.1.0-arm64.dmg",
       "size": 286952399,
       "sha256": "a7bd8de13c7312500053aa57ab81cf120c4ff70ae3c31ad8ec3a759088186994"
-    },
-    {
-      "platform": "win-x64",
-      "filename": "DataPhraser.Setup.0.1.0.exe",
-      "downloadUrl": "https://github.com/Quinn-Talor/dataphraser-releases/releases/download/v0.1.0/DataPhraser.Setup.0.1.0.exe",
-      "size": 215050691,
-      "sha256": "eb45a817c5cc97b195be640e00e8a202940474e2894c6867d60b555193a77c36"
     }
-  ]
+  ],
+  "note": "Windows 包因跨平台构建产出 mac 二进制而下架，待在 windows-latest 原生构建后补回"
 }

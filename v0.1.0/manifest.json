@@ -7,8 +7,8 @@
       "platform": "mac-arm64",
       "filename": "DataPhraser-0.1.0-arm64.dmg",
       "downloadUrl": "https://github.com/Quinn-Talor/dataphraser-releases/releases/download/v0.1.0/DataPhraser-0.1.0-arm64.dmg",
-      "size": 287011970,
-      "sha256": "b32e1f88e851ab8a8ff7aeb3e77bc8778ebcfa66defc4bbd4d043c529965a9fa"
+      "size": 320055706,
+      "sha256": "0d041175f0b909f26ed936894ac855ecdfaa5e83456d4da92bd7b56775f9088a"
     }
   ],
   "note": "Windows 包因跨平台构建产出 mac 二进制而下架，待在 windows-latest 原生构建后补回"
